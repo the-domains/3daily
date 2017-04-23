@@ -1,3 +1,16 @@
+layout_spectrum: 0.1581684909977646
+typography_spectrum: 0.05651857086992131
+color:
+  lightness: 0.8133390098781611
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  saturation: 0.5609054044275407
+  brandStrength: 0.44626006882434877
+  rhythmicContrast: 0.65216645423535
 name: 3daily
 analytics: {}
 github: true
@@ -23,20 +36,7 @@ collections:
     permalink:
       path: '/:title/'
 content: []
-layout_spectrum: 0.1537001088727266
-color:
-  lightness: 0.8269094151910394
-  brandColors:
-    - '#F6F792'
-    - '#333745'
-    - '#77C4D3'
-    - '#DAEDE2'
-    - '#EA2E49'
-  saturation: 0.1565109440125525
-  brandStrength: 0.261898583965376
-  rhythmicContrast: 0.09197148191742599
 content_rating:
   adult: false
-typography_spectrum: 0.04206769610755146
 opengraph: {}
 title: 3DAILY
