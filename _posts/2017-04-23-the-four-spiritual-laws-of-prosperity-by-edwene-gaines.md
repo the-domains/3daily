@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: 'Prosperity includes the following:'
-dateModified: '2017-04-23T16:27:20.584Z'
-datePublished: '2017-04-23T16:27:21.593Z'
-title: The Four Spiritual Laws of Prosperity by Edwene Gaines
+dateModified: '2017-04-23T16:27:36.002Z'
+datePublished: '2017-04-23T16:27:36.740Z'
+title: From The Four Spiritual Laws of Prosperity by Edwene Gaines
 author: []
 publisher: {}
 via: {}
@@ -13,7 +13,7 @@ datePublishedOriginal: '2017-04-23T16:25:08.934Z'
 _type: Blurb
 
 ---
-### The Four Spiritual Laws of Prosperity by Edwene Gaines
+### From The Four Spiritual Laws of Prosperity by Edwene Gaines
 
 Prosperity includes the following:
 
