@@ -1,0 +1,42 @@
+name: 3daily
+analytics: {}
+github: true
+description: 'gratitude, required'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.1537001088727266
+color:
+  lightness: 0.8269094151910394
+  brandColors:
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+  saturation: 0.1565109440125525
+  brandStrength: 0.261898583965376
+  rhythmicContrast: 0.09197148191742599
+content_rating:
+  adult: false
+typography_spectrum: 0.04206769610755146
+opengraph: {}
+title: 3daily
