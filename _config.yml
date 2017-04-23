@@ -1,7 +1,8 @@
 name: 3daily
 analytics: {}
 github: true
-description: clinically studied
+description: 'GRATITUDE, REQUIRED'
+author: {}
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -9,19 +10,18 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-author: {}
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 0.1537001088727266
 color:
@@ -39,4 +39,4 @@ content_rating:
   adult: false
 typography_spectrum: 0.04206769610755146
 opengraph: {}
-title: 3daily
+title: 3DAILY
