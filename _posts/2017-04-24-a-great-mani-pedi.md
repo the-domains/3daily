@@ -1,16 +1,16 @@
 ---
 publisher: {}
-dateModified: '2017-04-24T12:59:55.384Z'
+datePublished: '2017-04-25T18:35:09.159Z'
+dateModified: '2017-04-25T18:35:07.203Z'
 via: {}
 description: ''
-title: A GREAT MANI-PEDI
+title: 1/2 A GREAT MANI-PEDI
+sourcePath: _posts/2017-04-24-a-great-mani-pedi.md
 inFeed: true
 author: []
-datePublished: '2017-04-24T12:59:57.700Z'
 starred: true
 datePublishedOriginal: '2017-04-24T12:59:57.700Z'
-sourcePath: _posts/2017-04-24-a-great-mani-pedi.md
 _type: Blurb
 
 ---
-# **A GREAT MANI-PEDI**
+# **1/2 A GREAT MANI-PEDI**
