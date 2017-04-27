@@ -1,10 +1,10 @@
 ---
 publisher: {}
-datePublished: '2017-04-25T18:38:56.796Z'
-dateModified: '2017-04-25T18:38:52.589Z'
+datePublished: '2017-04-27T05:50:06.844Z'
+dateModified: '2017-04-27T05:50:05.269Z'
 via: {}
 description: '#GIRLBOSS by Sophia Amoruso'
-title: 11 Three good things today
+title: 1/ Three good things today
 sourcePath: _posts/2017-04-23-three-good-things-today.md
 inFeed: true
 author: []
@@ -13,7 +13,7 @@ datePublishedOriginal: '2017-04-23T16:09:20.138Z'
 _type: Blurb
 
 ---
-# 11 Three good things today
+# 1/ Three good things today
 
 ## THREE GOOD BOOKS
 
